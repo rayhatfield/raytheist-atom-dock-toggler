@@ -1,5 +1,5 @@
 {
-	"name": "@raytheist/atom-dock-toggler",
+	"name": "raytheist-atom-dock-toggler",
 	"main": "./lib/main",
 	"version": "0.0.0",
 	"description": "Toggles the visibility of panes surrounding the editor in Atom",
