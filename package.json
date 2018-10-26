@@ -9,7 +9,7 @@
 	"activationCommands": {
 		"atom-workspace": "raytheist-atom-dock-toggler:toggle"
 	},
-	"repository": "https://github.com/atom/raytheist-atom-dock-toggler",
+	"repository": "https://github.com/rayhatfield/raytheist-atom-dock-toggler",
 	"license": "MIT",
 	"engines": {
 		"atom": ">=1.0.0 <2.0.0"
