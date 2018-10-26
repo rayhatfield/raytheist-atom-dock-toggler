@@ -1,10 +1,14 @@
 {
 	"name": "raytheist-atom-dock-toggler",
 	"main": "./lib/main",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"description": "Toggles the visibility of panes surrounding the editor in Atom",
 	"keywords": [
-		"atom", "panels", "focus", "dock", "toggle"
+		"atom",
+		"panels",
+		"focus",
+		"dock",
+		"toggle"
 	],
 	"activationCommands": {
 		"atom-workspace": "raytheist-atom-dock-toggler:toggle"
@@ -14,6 +18,5 @@
 	"engines": {
 		"atom": ">=1.0.0 <2.0.0"
 	},
-	"dependencies": {
-	}
+	"dependencies": {}
 }
