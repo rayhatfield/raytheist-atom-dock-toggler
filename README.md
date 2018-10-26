@@ -7,7 +7,7 @@ Provides a keyboard shortcut to toggle the visibility of panes surrounding the e
 apm install @raytheist/atom-dock-toggler
 ```
 
-Or go to _Settings → Install_ and search for `@raytheist/atom-dock-toggler`.
+Or go to _Settings → Install_ and search for `atom-dock-toggler`.
 
 ## Usage
 Hit <kbd>ctrl-alt-o</kbd> to toggle the panels surrounding the editor.
