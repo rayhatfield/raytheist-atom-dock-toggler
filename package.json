@@ -1,7 +1,7 @@
 {
 	"name": "raytheist-atom-dock-toggler",
 	"main": "./lib/main",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Toggles the visibility of panes surrounding the editor in Atom",
 	"keywords": [
 		"atom",
