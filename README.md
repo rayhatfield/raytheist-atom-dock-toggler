@@ -4,7 +4,7 @@ Provides a keyboard shortcut to toggle the visibility of panes surrounding the e
 
 ## Installation
 ```shell
-apm install @raytheist/atom-dock-toggler
+apm install raytheist-atom-dock-toggler
 ```
 
 Or go to _Settings → Install_ and search for `atom-dock-toggler`.
