@@ -1,0 +1,26 @@
+{
+	"context-menu": {
+		"atom-text-editor": [
+			{
+				"label": "Toggle Docks",
+				"command": "raytheist-atom-dock-toggler:toggle"
+			}
+		]
+	},
+	"menu": [
+		{
+			"label": "Packages",
+			"submenu": [
+				{
+					"label": "Dock Toggler",
+					"submenu": [
+						{
+							"label": "Toggle",
+							"command": "raytheist-atom-dock-toggler:toggle"
+						}
+					]
+				}
+			]
+		}
+	]
+}
