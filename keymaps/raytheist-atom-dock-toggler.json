@@ -1,5 +1,5 @@
 {
 	"atom-workspace": {
-		"ctrl-alt-o": "raytheist-atom-dock-toggler:toggle"
+		"ctrl-alt-\\": "raytheist-atom-dock-toggler:toggle"
 	}
 }
